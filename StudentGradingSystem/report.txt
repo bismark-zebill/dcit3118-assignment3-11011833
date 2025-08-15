@@ -1,0 +1,4 @@
+Kwaku Frimpong (ID: 1): Score = 85, Grade = A
+Abena Agyapong (ID: 2): Score = 90, Grade = A
+Cole Palmer (ID: 3): Score = 78, Grade = B
+Kyrie Irving (ID: 4): Score = 92, Grade = A
